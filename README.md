@@ -8,6 +8,7 @@ like Python's built-in function reduce()
 like Python's built-in function filter()
 2. Implement List comprehensions to produce the following lists. 
 Write List comprehensions to produce the following Lists
+
 ['A', 'C', 'A', 'D', 'G', 'I', ’L’, ‘ D’]
 
 ['x', 'xx', 'xxx', 'xxxx', 'y', 'yy', 'yyy', 'yyyy', 'z', 'zz', 'zzz', 'zzzz']
